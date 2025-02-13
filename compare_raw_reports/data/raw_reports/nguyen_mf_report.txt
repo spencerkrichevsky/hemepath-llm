@@ -1,0 +1,185 @@
+Diagnosis
+
+Peripheral Blood:         
+
+ - Pancytopenia
+
+ 
+
+Bone Marrow:
+
+- Myelofibrosis, see comment
+
+- Increased iron stores
+
+ 
+
+ 
+
+NDN/VJ 04/13/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Reticulin and Trichrome stains on biopsy show collagen fibrosis and reticulin fibrosis (grade 2 out of 3)
+
+-Immunohistochemical stains, with adequate controls, are performed on biopsy for CD34, CD117, MPO, Factor VIII, and ECadherin. The MPO and Ecdherin stains show increase in granulocytes and decrease in erythoids. CD34 shows less than 2% positive cells. CD117 shows normal distribution of early granulocytes. FVIII stain shows normal distribution of megakaryocytes.
+
+-Diffuse myelofibrosis is seen in biopsy which is the cause of pancytopenia and paucity of aspirate cells. Primary myelofibosis or myelofibrosis due to other pre-existing myeloproliferatibe neoplasms (P. vera, CML, and essential thrombocythemia) are unlikely due to lack of prefibrotic presentations. The current peripheral blood smear also shows no evidence of tear-drop cells, NRBCs or leukocyte left shift, typical findings in myelofibrosis associated with MPNs. Acute panmyelosis with myelofibrosis is ruled out without increase in myeloblasts.  Other etiologies are also unlikely: lymphoma (especially Hodgkin lymphoma), reneal osteodystrophy, metastatic carcinoma. The following etiolgies may be considered in this patient: viral infection, auto immune disease such as SLE in this patient, among others. Clinical correlation is suggested.
+
+-Bone marrow was sent for cytogenetics, and FISH panels for MDS and MPN, MPN molecular profile.
+
+-Findings were discussed with Dr. G .Segal and Dr Juneja on 4/12/18
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+39 year old female with history of SLE, thrombocytopenia, anemia, encephalopathy, auto immune hemolysis, PLEX for APLS.  Bone marrow for workup of pancytopenia.
+
+ 
+
+Gross Description
+
+The specimen is received in two parts, each labeled with the patient's name and MRN.
+
+ 
+
+Part 1 received in formalin and labeled bone marrow is a red-brown gelatinous portion of clotted blood measuring 2.8 x 1.1 x 0.8 cm. The clot is serially cross sectioned to reveal a red-brown gelatinous cut surface.  The clot is submitted in its entirety in cassettes 1A-1C.
+
+ 
+
+Part 2 received in formalin and labeled bone marrow core is a red-brown cylindrical core of bone measuring 2.1 cm in length and 0.2 cm in diameter. The specimen is submitted entirely in cassette 2A after a brief decalcification.  PY/kg  04/10/2018 22:06
+
+ 
+
+Peripheral Smear
+
+CBC Results:
+
+            WBC                1.6 K/CMM LOW
+
+            RBC                 2.38 M/CMM LOW
+
+            Hgb                  6.7 g/dL LOW
+
+            Hct                   20.0 % LOW
+
+            MCV                 84.0 fL HI
+
+            MCH                 28.3 pg HI
+
+            MCHC 33.6 g/dL Normal
+
+            RDW                16.0 % HI
+
+            Platelet            13 K/CMM LOW
+
+            MPV                 10.7 fL HI
+
+            Segs                 71 % Normal
+
+            Lymphocytes  21.4 % Normal
+
+            Monocytes        7.4% Normal
+
+            Eosinophils       0.0 % Normal
+
+            Basophils          0.2 % Normal
+
+            Segs-Bands # 1.2 K/CMM LOW
+
+            Lymphocytes # 0.3 K/CMM LOW
+
+            Monocytes # 0.1 K/CMM Normal
+
+            RBC Morph       Normal
+
+            Plt Morph          Normal
+
+            Retic Auto        0.0 % LOW
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes: Normocytic hypochromic anemia, no polychromasia. NRBCs and tear-drop cells are not seen
+
+White cells: Markedly decreased in number, normal morphology, no blasts seen
+
+Granulocytes: Decreased with normal morphology , no left shift seen
+
+Lymphocytes: Decreased with normal morphology
+
+Monocytes: Decreased with normal morphology
+
+Platelets: Markedly decreased with normal morphology
+
+Bone marrow (100 cells counted on touch prep)
+
+Differential (%)
+
+Myeloblasts: 0%
+
+Promyelocytes: 0%
+
+Myelocytes: 17%
+
+Metas: 3%
+
+Bands& PMN's: 52%
+
+Eos: 0%
+
+Baso: 0%
+
+Monos: 5%
+
+Lymphs: 22%
+
+Plasma cells: 0%
+
+Erythroids: 1%
+
+ 
+
+Cellularity: 90%
+
+Megakaryopoiesis: Adequate with normal maturation
+
+Erythropoiesis: Decreased
+
+Iron Content (aspirate): Increased iron stores
+
+Granulopoiesis: Increased with no increase in blasts
+
+Lymphocytes: Relatively increased with normal morphology
+
+ 
+
+Biopsy and clot section: Diffuse myelofibrosis, no evidence of granuloma or clusters of imature cells
+
+Iron content (biopsy and clot section): Increased iron stores
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305 x 2, 88313 x 4, 88311, 85097, 85060, 88342, 88341 x4
+
+ 

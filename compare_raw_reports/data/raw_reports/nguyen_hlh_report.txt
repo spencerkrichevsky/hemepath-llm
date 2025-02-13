@@ -1,0 +1,177 @@
+Diagnosis
+
+Peripheral Blood:
+
+- Pancytopenia
+
+Bone Marrow:
+
+- Normocellular for age (60%)
+
+- Hemophagocytosis identified, see comment
+
+- No evidence of malignancy
+
+- Adequate iron stores
+
+ 
+
+ 
+
+NDN/DMS 05/01/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+A moderate number of histiocytes in bone marrow are found with hemophagocytosis. The following findings in this patient support the diagnosis of Hemophagocytic Lymphohistiocytosis (HLH): pancytopenia, fever, markedly elevatd ferritin (19,273), elevated triglyceride (256), hemophagocytosis in bone marrow.
+
+Dr Kaysal was notified of the fiondings on 4/30/18
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+ 
+
+43 year old male with a PMH significant for pancytopenia and CNS vasculitis with concern for HLH.
+
+ 
+
+Gross Description
+
+The specimen is received in two parts each labeled with the patient's name and medical record number. 
+
+1. Received in formalin in a container labeled with the patient's name and bone marrow clot on the requisition is two red-brown gelatinous portions of clotted blood ranging from 0.8 x 0.8 x 0.1 cm to 1.5 x 1.1 x 1.0 cm.  The larger clot is serially cross sectioned to reveal red-brown gelatinous cut surfaces.  The clot is submitted in its entirety in cassette 1A.
+
+ 
+
+2. Received in formalin in a container labeled with the patient's name and bone marrow core on the requisition is a tan-red cylindrical core of bone measuring 2.6 cm in length and 0.2 cm in diameter.  The specimen is submitted in toto in cassette 2A after a brief decalcification.  PY/myf  05/01/2018 04:17
+
+ 
+
+Peripheral Smear
+
+CBC result (4/30/2018)
+
+WBC 1.8 K/CMM LOW
+
+RBC 3.33 M/CMM LOW
+
+Hgb 9.8 g/dL CRIT
+
+Hct 29.6 % LOW
+
+MCV 88.9 fL Normal
+
+MCH 29.5 pg Normal
+
+MCHC 33.2 g/dL Normal
+
+RDW 16.7 % HI
+
+Platelet 56 K/CMM LOW
+
+MPV 10.0 fL Normal
+
+Segs 85.6 % Normal HI
+
+Lymphocytes 5.9 % LOW
+
+Monocytes 4.9 % Normal
+
+Basophils 0.5 % Normal
+
+Segs-Bands # 1.5 K/CMM 
+
+Lymphocytes # 0.1 K/CMM LOW
+
+Monocytes # 0.1 K/CMM Normal
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes: Normocytic hypochromic anemia with anisopoikilocytosis, minimal polychromasia
+
+White cells: Decreased in number
+
+Granulocytes: Left shift with bandemia
+
+Lymphocytes: Normal morphology
+
+Monocytes: Normal morphology
+
+Platelets: Decreased in number with normal morphology
+
+Bone marrow
+
+Differential (%)
+
+Myeloblasts: 0%
+
+Promyelocytes: 1%
+
+Myelocytes: 6%
+
+Metas: 4%
+
+Bands & PMN's: 62%
+
+Eos: 3%
+
+Baso: 0%
+
+Monos: 4%
+
+Lymphs: 8%
+
+Plasma cells:0%
+
+Erythroids: 12%
+
+M:E ratio 7:1
+
+Cellularity: 60%, normocellular for age
+
+Megakaryopoiesis: Adequate with normal maturation
+
+Erythropoiesis: Adequate with normal maturation.
+
+Iron Content (aspirate): Adequate iron stores
+
+Granulopoiesis: Adequate with normal maturation, no increase in blasts
+
+Lymphocytes: Normal number and morphology
+
+ 
+
+Biopsy and clot section: No evidence of granuloma, fibrosis or abnormal cellular infiltrates
+
+Others: A moderate number of histiocytes with phagocytosis are seen in aspirate and biopsy
+
+Iron content (biopsy and clot section): Adequate iron stores
+
+ 
+
+Non Clinical Documentation
+
+ 
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060
+
+The positive controls and internal negative controls for the special stains have been reviewed, and appropriate staining is confirmed by the pathologist whose signature appears above.

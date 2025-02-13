@@ -1,0 +1,229 @@
+Diagnosis
+
+Peripheral Blood:
+
+- Hypochromic normocytic anemia.
+
+- Moderate leukocytosis with left shift.
+
+- Marked thrombocytosis.
+
+Bone Marrow:
+
+- Essential thrombocythemia, see comment
+
+- Increased iron stores
+
+ 
+
+ 
+
+NDN/DMS 05/02/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-The morphologic findings in peripheral blood, bone marrow and positive JAK2 V617F are supprtive of essential thrombocythemia.
+
+ 
+
+-Bone marrow biopsy was sent for cytogenetics, MPN FISH panel, and MPN molecular profile (NGS).
+
+ 
+
+- Dr Idowu was notified of the findings on 5/2/18
+
+ 
+
+Tumor Summary
+
+Specimen:
+
+Peripheral blood smear
+
+Bone marrow aspiration
+
+Bone marrow aspirate clot
+
+Bone marrow core (trephine) biopsy
+
+Bone marrow core touch preparation (imprint)
+
+Procedure: Bone marrow
+
+Aspiration site: R posterior iliac crest
+
+Biopsy site: R posterior iliac crest
+
+Histologic type: essential thrombocythemia
+
+Immunophenotyping
+
+Immunohistochemistry: not performed
+
+Flow cytometry:
+
+not performed
+
+Cytogenetic studies: Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+ 
+
+50 year old male with JAK2 mutation and thrombocytosis (platelet count 1,101), s/p SMA thrombectomy.
+
+ 
+
+Gross Description
+
+The specimen is received in two parts each labeled with the patient's name and medical record number.
+
+ 
+
+Part 1 received in formalin and labeled "clot" is a red-brown gelatinous portion of clotted blood measuring 1.5 x 1.0 x 0.4 cm.  The clot is serially cross sectioned to reveal a red-brown gelatinous cut surface. The clot is submitted in its entirety in cassette 1A. 
+
+Part 2 received in formalin and labeled "core" is a tan-brown cylindrical core of bone measuring 2.6 cm in length and 0.2 cm in diameter.  The specimen is submitted in toto in cassette 2A after a brief decalcification.   PY/ddw  05/01/2018 18:50
+
+ 
+
+2 blocks, 2 H&E
+
+ 
+
+Microscopic Description
+
+ 
+
+Date/time: 5/1/2018
+
+CBC Results:
+
+WBC 25.1 K/CMM HI
+
+RBC 3.14 M/CMM LOW
+
+Hgb 8.8 g/dL LOW
+
+Hct 26.9 % LOW
+
+MCV 85.9 fL Normal
+
+MCH 28.0 pg Normal
+
+MCHC 32.6 g/dL Normal
+
+RDW 14.6 % HI
+
+MPV 8.7 fL Normal
+
+Platelet 851 K/CMM CRIT
+
+Segs 73.1 % 
+
+Lymphocytes 14.2 % LOW
+
+Monocytes 9.3 % Normal
+
+Eosinophils 2.6 % Normal
+
+Basophils 0.8 % Normal
+
+Segs-Bands # 18.4 K/CMM HI
+
+Lymphocytes # 3.6 K/CMM
+
+Monocytes # 2.3 K/CMM HI
+
+Eosinophils # 0.6 K/CMM HI
+
+Basoophils # 0.2 K/CMM Normal
+
+Retic Auto 2.1 % HI
+
+ 
+
+PERIPHERAL BLOOD:
+
+Erythrocytes: Normocytic, hypochromic anemia with anisocytosis, mild polychromasia.
+
+White cells: Increased in number, no blasts seen
+
+Granulocytes: Many band forms
+
+Lymphocytes: Normal morphology.
+
+Monocytes: Increased with normal morphology
+
+Platelets: Markedly increased in number.
+
+Bone marrow:
+
+Differential (%)
+
+Myeloblasts: 0
+
+Promyelocytes: 2
+
+Myelocytes: 17
+
+Metas: 5
+
+Bands& PMN's: 49
+
+Eos: 3
+
+Baso: 0
+
+Monos: 2
+
+Lymphs: 5
+
+Plasma cells: 0
+
+Erythroids: 17
+
+ 
+
+Cellularity: 60%, hypercellular for age
+
+Megakaryopoiesis: Increased with enlarged and mature megakaryocytes.
+
+Erythropoiesis: Adequate with normal maturation, no dysplasia
+
+Iron Content (aspirate): Increased iron stores
+
+Granulopoiesis: Adequate with normal maturation, no increase in blasts
+
+Lymphocytes: Normal morphology
+
+ 
+
+Biopsy and clot section: Hypercellular with many enlarged and mature megakaryocytes.
+
+Iron content (biopsy): Increased iron stores
+
+ 
+
+Non Clinical Documentation
+
+ 
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060
+
+The positive controls and internal negative controls for the special stains have been reviewed, and appropriate staining is confirmed by the pathologist whose signature appears above.

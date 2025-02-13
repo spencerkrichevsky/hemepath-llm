@@ -1,0 +1,203 @@
+Diagnosis
+
+Peripheral Blood:         
+
+ - B lymphoblastic leukemia
+
+Bone Marrow:               
+
+- B lymphoblastic leukemia, see comment
+
+ 
+
+ 
+
+NDN/NDN 01/29/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Immunophenotyping of bone marrow aspirate by flow cytometry (report HF-18-52) shows predominant a B cell population (about 90% of all the cells analyzed). These B cells have small to imtermediate nuclear size (based on forward-scatter signal) and show expression of CD19, CD38, HLA-DR, and TdT. They are negative for CD20, CD2, CD3, CD4, CD8, CD5, CD7, CD10, CD56, CD34, CD13, CD117, and CD33. Review of peripheral blood smear shows a predominant lymphoblast population. These results, together with morphologic findings in peripheral blood and bone marrow aspirate, are consistent with precursor B lymphoblastic leukemia.
+
+-Dr. Rios was notified of the findings on 1/29/2018.
+
+-Bone marrow aspirate was sent for cytogenetics, ALL FISH panel, PCR testing for bcr/abl1, and AFB/fungal stains/cultures.
+
+ 
+
+-Biopsy and clot section are pending processing. Findings will be reported in Addendum
+
+ 
+
+Tumor Summary
+
+Specimen:
+
+  Peripheral blood smear
+
+  Bone marrow aspiration
+
+  Bone marrow aspirate clot
+
+  Bone marrow core (trephine) biopsy
+
+  Bone marrow core touch preparation (imprint)
+
+Procedure:  Bone marrow
+
+Aspiration site:  R posterior iliac crest
+
+Biopsy site:  R posterior iliac crest
+
+Histologic type:  B lymphoblastic leukemia
+
+Immunophenotyping
+
+ Immunohistochemistry: not performed
+
+ Flow cytometry: 
+
+    Performed, see separate report (HF-18-52)
+
+ Cytogenetic studies:  Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+34 y/o male with severe anemia, thrombocytopenia, leukocytosis with numerous blasts
+
+ 
+
+Gross Description
+
+Will be reported in Addendum by Surgical  Pathology
+
+ 
+
+Peripheral Smear
+
+CBC Results
+
+Date/time:1/29/2018
+
+WBC 169.6
+
+RBC 2.2
+
+Hgb 7.0
+
+Hct 20.3
+
+Plt 8
+
+ 
+
+Differentials:
+
+Seg 2%
+
+Bands 1%
+
+Lymph 8%
+
+Mono 1%
+
+Metamyelocytes 1%
+
+Promyelo 1%
+
+Blasts 86%
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes: Normochromic hypochromic anemia with anisopoikilocytosis, mild polychromasia   
+
+White cells: mark increase in number  
+
+          Granulocytes: Decreased with normal morphology
+
+          Lymphocytes: Decreased with normal morphology
+
+          Monocytes: Decreased with normal morphology   
+
+          Others: numerous blasts (86%)
+
+ Platelets: Decreased with normal morphology   
+
+ 
+
+Bone marrow
+
+ 
+
+Differential (%)
+
+Lymphoblasts: 90                              
+
+Promyelocytes: 0                              
+
+Myelocytes: 0                                   
+
+Metas: 0                                           
+
+Bands & PMN's: 5                             
+
+Eos: 0                                              
+
+Baso: 0                                             
+
+Monos: 0                                          
+
+Lymphs: 0                                         
+
+Plasma cells: 0                                  
+
+Erythroids: 5                                     
+
+                                                        
+
+Megakaryopoiesis: Markedly decreased
+
+ 
+
+Erythropoiesis: Markedly decreased     
+
+ 
+
+Granulopoiesis: Markedly decreased                
+
+ 
+
+Lymphocytes: Markedly decreased
+
+ 
+
+Others: numerous lymphoblasts (90%)  
+
+ 
+
+Biopsy and clot section: pending processing. Findings will be reported in Addendum
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060

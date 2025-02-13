@@ -1,0 +1,215 @@
+Diagnosis
+
+Peripheral blood:
+
+          Normocytic hypochromic anemia
+
+          Leukocytosis with numerous blasts (80%)
+
+          Thrombocytopenia
+
+ 
+
+Bone marrow:
+
+          Acute myeloid leukemia, see comment
+
+          Increased iron stores
+
+ 
+
+ 
+
+NDN 01/10/2017 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+- Immunophenotyping of bone marrow aspirate by flow cytometry (report HF-17- 20) in  gate #1 (blast area) contains a predominant blast population (more than 60% of the bone marrow cells). These cells are positive for CD2, CD7, CD13, CD15 (partial), CD33, CD34, CD38, CD117, TdT (partial), and HLA-DR. They are negative for other T cell markers (other than CD2 and CD7), CD19, CD20, CD10, CD64, and MPO. These results are consistent with the patient's previous diagnosis of acute myeloid leukemia. The baseline bone marrow shows similar marker profile (report AF-15-1171, dated 12/28/2015)
+
+- Findings were notified to Neuro Trauma team on 1/6/17 @ 18:30
+
+- Bone marrow aspirate was sent for cytogenetics, AML- FISH panel, PCR testing for PLT3, NPM1, CEBPA, and KIT mutations. 
+
+ 
+
+Tumor Summary
+
+Specimen: _
+
+  Peripheral blood smear
+
+  Bone marrow aspiration
+
+  Bone marrow aspirate clot
+
+  Bone marrow core (trephine) biopsy
+
+  Bone marrow core touch preparation (imprint)
+
+Procedure: Bone marrow
+
+Aspiration site: R ilac crest
+
+Biopsy site: R ilac crest
+
+Histologic type: Acute myeloid leukemia, NOS
+
+Immunophenotyping
+
+  Immunohistochemistry: Not performed,
+
+  Flow cytometry: 
+
+    Performed, see separate report (HF-17-20)
+
+ Cytogenetic studies:  Performed, see separate report
+
+ 
+
+Specimen Source
+
+1.  Bone marrow clot
+
+2.  Bone marrow core, decal, touch prep
+
+Peripheral blood smear
+
+Bone marrow was obtained by IR
+
+ 
+
+Clinical Information
+
+Clinical History: AML; 67 year old female with past medical history of DLBCL (treated), HIV, diagnosed with AML (December 2015), lost to follow up until December 2016.  Patient now presents with CNS bleeding 
+
+ 
+
+Gross Description
+
+Part 1: Received in formalin, labeled with the patient's name and medical record number only is an irregular portion of maroon clotted blood (1.4 x 1.3 x 1.0 cm), which is serially sectioned and entirely submitted in 1A.  
+
+ 
+
+Part 2: Received in formalin, labeled with the patient's name and medical record number only is a cylindrical portion of tan bone (1.6 cm in length x 0.2 cm in diameter), which is entirely submitted into A following decalcification.  CG/ec 01/09/2017 15:03
+
+ 
+
+Peripheral Smear
+
+CBC Results:    
+
+WBC                       12.4 K/CMM  HI  
+
+RBC                       2.40 M/CMM  LOW  
+
+Hgb                       6.8 g/dL  CRIT  
+
+Hct                       21.2 %  LOW  
+
+MCV                       88.1 fL  Normal 
+
+MCH                       28.2 pg  Normal 
+
+MCHC                      32.0 g/dL  Normal 
+
+RDW                       15.7 %  HI  
+
+Platelet                  96 K/CMM  LOW  
+
+MPV                       9.4 fL  Normal 
+
+Segs                      3.0 %  LOW  
+
+Bands                     0.0 %  Normal 
+
+Lymphocytes               14.0 %  LOW  
+
+Atypical Lymphs           0.0 %  Normal 
+
+Monocytes                 1.0 %  LOW  
+
+Metamyelocytes            1.0 %  Normal 
+
+Myelocytes                1.0 %  HI  
+
+Blasts                    80.0 %  HI  
+
+Segs-Bands #              0.4 K/CMM  LOW  
+
+Lymphocytes #             1.7 K/CMM  Normal 
+
+Monocytes #               0.1 K/CMM  Normal  
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes:                                     Normocytic hypochromic anemia with slight polychromasia
+
+White cells:                                        Increased in number
+
+          Granulocytes:                           Numerous blasts (80%)
+
+          Lymphocytes:                           Normal number and morphology
+
+          Monocytes:                              Normal number and morphology
+
+Platelets:                                           Decreased with normal morphology
+
+ 
+
+Bone marrow
+
+ 
+
+Differential (%)
+
+Myeloblasts:                                      80%
+
+Promyelocytes:                                  2
+
+Myelocytes:                                       2
+
+Metas:                                               1
+
+Bands & PMN's:                                 0
+
+Eos:                                                  0
+
+Baso:                                                0
+
+Monos:                                              2
+
+Lymphs:                                            3
+
+Plasma cells:                                     0
+
+Erythroids:                                         10
+
+ 
+
+Cellularity:                                         95%
+
+Megakaryopoiesis:                             Decreased with normal maturation
+
+Erythropoiesis:                                  Decreased with normal maturation
+
+                  Iron Content (aspirate):      Increased iron stores
+
+Granulopoiesis:                                  Marked decreased in mature granulocytes, numerous myeloblasts (80%)
+
+Lymphocytes:                                    Normal morphology
+
+Biopsy and clot section:                     Hypercellular with marked increase in blasts
+
+Iron content (biopsy and clot section): Increased iron stores
+
+ 
+
+Non Clinical Documentation
+
+CPT: 88305 x 2, 88313 x 2, 88311, 85097, 85060

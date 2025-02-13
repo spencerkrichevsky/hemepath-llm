@@ -1,0 +1,233 @@
+Diagnosis
+
+Peripheral Blood:
+
+ - Microcytic hypochromic anemia and thrombocytopenia
+
+ - Circulating lymphoblasts (3%) 
+
+ 
+
+Bone Marrow:
+
+ - T lymphoblastic leukemia/lymphoma (T cell ALL/LBL),
+
+     see comment
+
+ - Adequate iron stores   
+
+ 
+
+ 
+
+NDN/NDN 09/20/2022 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Immunophenotyping of bone marrow aspirate by flow cytometry (report HF-22-744) shows 9% normal lymphocytes with mature B cells and T cells. Analysis of cells in CD45-dim gate shows a predominant T cell precursor population (about 71% of all the cells analyzed).  These T cells have small nuclear size (based on forward-scatter signal) and show expression of CD2, CD3, CD5, CD7, co-expression of CD4/CD8, CD38. They are negative for CD34, CD117, HLA-DR, CD13, CD33, CD16, CD10, CD19, CD64, CD14, CD56.
+
+-The immunophenotype results and morphology are most consistent with T lymphoblastic leukemia/lymphoma (T cell ALL/LBL)
+
+ 
+
+-Bone marrow aspirate was sent for cytogenetics, FISH panel for ALL (pediatric)
+
+ 
+
+-The diagnosis was notified to Dr. xxx on 9/20/2022
+
+ 
+
+Tumor Summary
+
+Specimen:
+
+  Peripheral blood smear
+
+  Bone marrow aspiration
+
+  Bone marrow aspirate clot
+
+  Bone marrow core (trephine) biopsy
+
+  Bone marrow core touch preparation (imprint)
+
+Procedure:  Bone marrow
+
+Aspiration site:  R posterior iliac crest
+
+Biopsy site:  R posterior iliac crest
+
+Histologic type:  T lymphoblastic leukemia/lymphoma
+
+Immunophenotyping
+
+  Immunohistochemistry: not performed
+
+  Flow cytometry: 
+
+    Performed, see separate report (HF-22-xxx)
+
+   
+
+ Cytogenetic studies:  Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+The patient is a 10 y/o male presenting with cough, fever, fatigue, night sweats, and weight loss. He was found to have thrombocytopenia, anemia, elevated uric acid/LDH. CT scans show anterior mediastinal mass, bulky right paratracheal lymphadenopathy, bilateral supraclavicular, axillary, and hilar lymphadenopathy, hepatosplenomegaly with mesenteric, retroperitoneum, and bilateral iliac chain lymphadenopathy.
+
+ 
+
+Gross Description
+
+The case is received in 2 parts labeled: xxx
+
+ 
+
+1.  Received in formalin, labeled with the patient's name, MRN, "bone marrow clot" and consists of a single irregular bone marrow clot measuring 2.5 x 2.0 x 0.2 cm which is submitted in toto in cassette 1A.
+
+ 
+
+2.  Received in formalin, labeled with the patient's name, MRN, "bone marrow core" and consists of a single tan-red hemorrhagic cylindrical bone marrow core measuring 1.5 cm in length by 0.2 cm in diameter which is submitted in toto in cassette 2A, post light decalcification.
+
+ 
+
+hr 09/19/2022 14:45
+
+ 
+
+Peripheral Smear
+
+Date/time: 09/19/2022,17:05
+
+CBC Results:    
+
+WBC                       9.1 K/CMM  Normal 
+
+RBC                       3.71 M/CMM  LOW  
+
+Hgb                       8.5 g/dL  LOW  
+
+Hct                       25.9 %  LOW  
+
+MCV                       69.9 fL  LOW  
+
+MCH                       23.1 pg  LOW  
+
+MCHC                      33.0 g/dL  Normal 
+
+RDW                       15.7 %  HI  
+
+MPV                       8.5 fL  Normal 
+
+Platelet                  41 K/CMM  LOW  
+
+Segs                      37.0 %  Normal 
+
+Bands                     2.0 %  Normal 
+
+Lymphocytes               50.0 %  HI  
+
+Atypical Lymphs           0.0 %  Normal 
+
+Monocytes                 5.0 %  Normal 
+
+Metamyelocytes            5.0 %  HI  
+
+Myelocytes                1.0 %  HI  
+
+Neutrophils #             3.5 K/CMM  Normal 
+
+Lymphocytes #             4.6 K/CMM  Normal 
+
+Monocytes #               0.5 K/CMM  Normal 
+
+NRBC                      12 /100WB  NA  
+
+ 
+
+ 
+
+PERIPHERAL BLOOD:
+
+Erythrocytes: Decreased in number; microcytic, hypochromic; mild polychromasia; schistocytes not increased; nucleated RBCs present; intracellular organisms absent
+
+White cells: Normal in number; presence of a few blasts (3%)         
+
+Platelets: Decreased in number; unremarkable morphology; platelet clumps absent
+
+ 
+
+Microscopic Description
+
+Bone marrow
+
+ 
+
+Differential (%) on aspirate
+
+Lymphoblasts:        77                             
+
+Promyelocytes:       1                          
+
+Myelocytes:            1                           
+
+Metas:                    1                           
+
+Bands & PMN's:      5                          
+
+Eos:                       0                          
+
+Baso:                     0                          
+
+Monos:                   0                          
+
+Lymphs:                 10                         
+
+Plasma cells:          0                         
+
+Erythroids:              5                                                  
+
+                                                           
+
+Cellularity:                                         95%
+
+Megakaryopoiesis:                             Decreased
+
+Erythropoiesis:                                  Markedly decreased
+
+                  Iron Content (aspirate):     Adequate iron stores
+
+Granulopoiesis:                                  Markedly decreased
+
+Lymphocytes:                                    Decreased
+
+Others:                                             Numerous lymphoblasts are present (77%)
+
+Biopsy and clot section:                     Diffuse distribution of lymphoblasts
+
+Iron content (biopsy and clot section): Adequate iron stores
+
+ 
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060

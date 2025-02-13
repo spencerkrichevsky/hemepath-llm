@@ -1,0 +1,219 @@
+Diagnosis
+
+Peripheral blood:
+
+          Macrocytic hypochromic anemia
+
+          Thrombocytopenia
+
+ 
+
+Bone marrow:
+
+          Normocellular for age
+
+          Increased  erythropoiesis with mild dyserythropoiesis, see comment
+
+          Increased megakaryopoiesis with mild dysplasia
+
+          Increased iron stores with no increase in ring-sideroblasts
+
+ 
+
+ 
+
+NDN 01/12/2017 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Mild dysplastic changes are seen in erythroids and megakaryocytes.  Myelodysplastic syndrome (MDS) cannot be ruled out
+
+ 
+
+-Bone marrow aspirate was sent for MDS-FISH panel and cytogenetics to rule out MDS.
+
+ 
+
+Specimen Source
+
+1.  Bone marrow clot
+
+2.  Bone marrow core, decal, touch prep
+
+Peripheral blood smear
+
+Bone marrow was obtained by IR
+
+ 
+
+Clinical Information
+
+Pancytopenia
+
+ 
+
+83 year old male with a medical history of chronic afib, CAD, ICM who present with GI bleeding and pancytopenia. 
+
+Gross Description
+
+1.  Received in formalin labeled with patient's name, medical record number, and "BM clot" is an irregular portion of maroon-clotted blood (1.5 x 1.5 x 1.0 cm) which is sectioned and entirely submitted in 1A.
+
+ 
+
+2.  Received in formalin labeled with patient's name, medical record number, and "BM biopsy" are two cylindrical portions of red bone (1.8 cm in length and 0.2 cm in diameter, in aggregate) which are entirely submitted in 2A, following decalcification.    CG/ea  01/11/2017 12:50
+
+ 
+
+Peripheral Smear
+
+CBC Results:    
+
+WBC                       7.2 K/CMM  Normal 
+
+RBC                       2.48 M/CMM  LOW  
+
+Hgb                       8.2 g/dL  LOW  
+
+Hct                       24.1 %  LOW  
+
+MCV                       97.1 fL  HI  
+
+MCH                       33.2 pg  HI  
+
+MCHC                      34.2 g/dL  Normal 
+
+RDW                       26.7 %  HI  
+
+Platelet                  100 K/CMM  LOW  
+
+MPV                       9.4 fL  Normal 
+
+Segs                      81.7 %  HI  
+
+Lymphocytes               7.9 %  LOW  
+
+Monocytes                 7.5 %  Normal 
+
+Eosinophils               2.6 %  Normal 
+
+Basophils                 0.3 %  Normal 
+
+Segs-Bands #              5.8 K/CMM  Normal 
+
+Lymphocytes #             0.6 K/CMM  LOW  
+
+Monocytes #               0.5 K/CMM  Normal 
+
+Eosinophils #             0.2 K/CMM  Normal 
+
+Anisocyte                 2+  
+
+Retic Auto                1.3 %  Normal  
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes:                                     Macrocytic  hypochromic anemia with slight polychromasia
+
+White cells:                                        Normal in number
+
+          Granulocytes:                           PMNs with reactive changes
+
+          Lymphocytes:                           Decreased in number with normal morphology
+
+          Monocytes:                              Normal in number and morphology
+
+        
+
+Platelets:                                           Decreased in number with few large forms
+
+ 
+
+Bone marrow
+
+ 
+
+Differential (%)
+
+Myeloblasts:                                      0
+
+Promyelocytes:                                  3
+
+Myelocytes:                                       10
+
+Metas:                                               22
+
+Bands & PMN's:                                 28
+
+Eos:                                                  2
+
+Baso:                                                0
+
+Monos:                                              1
+
+Lymphs:                                            6
+
+Plasma cells:                                     0
+
+Erythroids:                                         28
+
+ 
+
+Cellularity:                                         30%
+
+Megakaryopoiesis:                             Increased with few hypolobulated forms of mature megakaryocytes
+
+Erythropoiesis:                                  Increased with mild dyserythropoiesis
+
+                  Iron Content (aspirate):      Increased iron stores with no increase in ring-sideroblasts
+
+Granulopoiesis:                                  Adequate with left-shift, no increase in blasts, rare histiocytes with hemophagocytosis
+
+Lymphocytes:                                    Normal in number and morphology
+
+Biopsy and clot section:                     Megakaryopoiesis is increased with a few hypolobulated  forms. No evidence of granuloma, fibrosis or abnormal cellular infiltrates
+
+Iron content (biopsy and clot section): Increased iron stores with no increase in ring-sideroblasts
+
+ 
+
+Non Clinical Documentation
+
+CPT: 88305 x 2, 88313 x 2, 88311, 85097, 85060
+
+ 
+
+Teaching Physician Statement
+
+"I have personally reviewed all specimen preparations and concur with the resident's interpretation."
+
+ 
+
+ 
+
+Addendum Diagnosis
+
+Bone marrow:
+
+ 
+
+MDS Fluorescence In Situ Hybridization (FISH) results:
+
+ 
+
+_ Abnormal results with 5q-.
+
+ 
+
+nuc ish 5p15.31(D5S630,D5S2064)x2, 5q31 (EGR1x1)[7/200]
+
+nuc ish 7p11(EGFRx2),7q31(D7S486x2)[200]
+
+nuc ish 8cen(D8Z2x2)[200]
+
+nuc ish 20q12(D20S108x2)[200]

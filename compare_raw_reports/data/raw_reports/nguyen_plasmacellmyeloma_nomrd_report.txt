@@ -1,0 +1,169 @@
+Diagnosis
+
+Peripheral Blood:
+
+- Normocytic hypochromic anemia with no rouleaux formation
+
+Bone Marrow:
+
+- Trilineage hematopoiesis
+
+- Normocellular marrow for age (50%) with increased megakaryocytes
+
+- Presence of 6% polyclonal plasma cells, see comment
+
+- Adequate iron stores
+
+　
+
+NDN/RKC 08/12/2020 Electronic Signature: Nguyen, Nghia Andy D MD
+
+Comment
+
+- Immunophenotyping of bone marrow aspirate by flow cytometry (report HF-20-428) for plasma cells gated using CD38 are positive for CD19, CD45, CD138; negative for CD117, CD56, CD20 and show no evidence of cytoplasmic light chain restriction. These results indicate no evidence of monoclonal plasma cells by flow cytometry.
+
+- Bone marrow aspirate was sent for cytogenetics, and FISH panel for myeloma
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+Clinical Information
+
+Per medical record, the patient is a 47-year-old female with history of plasma cell myeloma status post treatment. Initial bone marrow (HB-17-48 & HF-17-95, 02/22/17) showed CD38 positive plasma cells with cytoplasmic kappa light chain restriction, CD 56 positive, CD19 negative and FISH positive for +5 and 11q+. Her last bone marrow (HB-20-82 & HF-20-138, 03/26/20) showed 0.4% polyclonal plasma cells with normal FISH and chromosomal analysis.
+
+Gross Description
+
+Two specimens are received, both labeled with the patient's name and medical record number. 
+
+ 
+
+1. Received in formalin and labeled "clot" is a 1.2 x 1.0 x 0.3 cm irregular portion of red-brown clotted blood. The specimen is trisected and submitted in its entirety in 1A.
+
+2. Received in formalin and labeled "core" is a 0.5 cm in length by 0.2 cm in diameter tan-red bony core fragment. The specimen is submitted in toto in 2A, following light decalcification. RC 08/10/2020 12:44_
+
+Peripheral Smear
+
+CBC Results
+
+Date/time: 8/10/2020 at 10:25 AM
+
+CBC Results:
+
+WBC 6.6 K/CMM
+
+RBC 4.30 M/CMM
+
+Hgb 11.7 g/dL LOW
+
+Hct 36.2 %
+
+MCV 84.2 fL
+
+MCH 27.1 pg
+
+MCHC 32.2 g/dL
+
+RDW 14.8 % High
+
+MPV 8.1 fL
+
+Platelet 298 K/CMM LOW
+
+Segs 59.7 %
+
+Lymphocytes 32.1 %
+
+Monocyte 7.0 %
+
+Eosinophil 0.5%
+
+Basophil 0.7%
+
+Neutrophils # 4 K/CMM
+
+Lymphocytes # 2.1 K/CMM
+
+Monocytes # 0.5 K/CMM
+
+Eosinophil # 0.0 K/CMM
+
+Basiogul # 0.0 K/CMM
+
+NRBC # 0.01 K/CMM
+
+Retic Auto 0.97 %
+
+Erythrocytes: Normocytic hypochromic anemia with mild polychromasia, no rouleaux formation
+
+White cells: Normal in number
+
+Granulocytes: Normal morphology
+
+Lymphocytes: Normal morphology
+
+Monocytes: Normal morphology
+
+Platelets: Normal number and morphology
+
+Microscopic Description
+
+Bone marrow
+
+NOTE: The differential was performed on bone marrow aspirate.
+
+Differential (%)
+
+Myeloblasts: 0
+
+Promyelocytes: 4
+
+Myelocytes: 1
+
+Metas: 2
+
+Bands & PMN's: 33
+
+Eos: 2
+
+Baso: 0
+
+Monos: 0
+
+Lymphs: 6
+
+Plasma cells: 6
+
+Erythroids: 41
+
+M:E ratio 0.91
+
+　
+
+Cellularity: 50%, normocellular for age
+
+Megakaryopoiesis: Increased with normal maturation
+
+Erythropoiesis: Increased with normal maturation
+
+Iron Content (aspirate): Adequate iron stores
+
+Granulopoiesis: Adequate with normal maturation
+
+Lymphocytes: Mild increase (6%) with normal morphology
+
+Plasma cells: Slight increase (3%) with unremarkable morphology
+
+Biopsy and clot section: No clusters of plasma cells seen
+
+Iron content (biopsy and clot section): Adequate iron stores
+
+Non Clinical Documentation
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060

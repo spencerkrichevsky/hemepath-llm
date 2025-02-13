@@ -1,0 +1,235 @@
+Diagnosis
+
+Peripheral blood:
+
+          No pathological changes
+
+ 
+
+Bone marrow:     
+
+          B- cell lymphoma involvement in bone marrow, see comment
+
+          Increased iron stores
+
+ 
+
+ 
+
+NDN 03/17/2017 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Immunophenotyping of bone marrow aspirate by flow cytometry (report HF-17-128) is not diagnostic, most likely due to inadequate number of lymphoma cells in aspirate.
+
+ 
+
+-Immunohistochemical stains, with adequate controls, are performed on biopsy for CD20, CD10, bcl6 and bcl2. The lymphoma cells are positive for CD20, CD10, bcl6 and bcl2. The stains show lymphoma cells with paratrabecular pattern, some with interstitial pattern
+
+ 
+
+-Bone marrow aspirate was sent for cytogenetics and NHL-FISH panel
+
+ 
+
+Tumor Summary
+
+Specimen: _
+
+  Peripheral blood smear
+
+  Bone marrow aspiration
+
+  Bone marrow aspirate clot
+
+  Bone marrow core (trephine) biopsy
+
+  Bone marrow core touch preparation (imprint)
+
+Procedure: _
+
+Aspiration site: R post iliac crest
+
+Biopsy site:_R post iliac crest
+
+Histologic type: _B cell lymphoma
+
+Immunophenotyping
+
+  Immunohistochemistry: Performed,
+
+  Flow cytometry:  _
+
+    Performed, see separate report (HF-17-128_)
+
+  
+
+ Cytogenetic studies:  Performed, see separate report
+
+ 
+
+Specimen Source
+
+1.  Clot
+
+2.  Bone marrow biopsy, touch prep, decal
+
+Peripheral blood smear
+
+Bone marrow was performed by IR
+
+ 
+
+Clinical Information
+
+Clinical History:  Follicular lymphoma/DLBCL
+
+ 
+
+60 year old male diagnosed with follicular lymphoma/DLBCL of mediastinal mass and  and pleural diagnosed on 3/1/17.
+
+Gross Description
+
+The specimen is received in two parts, each labeled with the patient's name and medical record number.
+
+ 
+
+1.  Received in formalin, labeled with the patient's name and "bone marrow clot" on the requisition is a red-brown portion of clotted blood measuring 2.0 x 1.0 x 0.8 cm. The clot is serially cross sectioned to reveal a red-brown gelatinous cut surface. The specimen is submitted in toto in cassettes 1A and 1B.
+
+ 
+
+2.  Received in formalin in a container labeled with the patient's name and "bone marrow biopsy" on the requisition is a red-brown cylindrical core of bone measuring 2.2 x 0.2 x 0.2 cm. The specimen is submitted in toto in cassette 2A after a brief decalcification.  PY/ec 03/16/2017 08:00
+
+ 
+
+Peripheral Smear
+
+ 
+
+CBC Results:    
+
+WBC                       8.2 K/CMM  Normal 
+
+RBC                       4.73 M/CMM  Normal 
+
+Hgb                       14.0 g/dL  Normal 
+
+Hct                       40.0 %  LOW  
+
+MCV                       84.6 fL  Normal 
+
+MCH                       29.6 pg  Normal 
+
+MCHC                      35.0 g/dL  Normal 
+
+RDW                       13.3 %  Normal 
+
+Platelet                  186 K/CMM  Normal 
+
+MPV                       9.2 fL  Normal 
+
+Segs                      78.0 %  HI  
+
+Bands                     0.0 %  Normal 
+
+Lymphocytes               14.0 %  LOW  
+
+Atypical Lymphs           0.0 %  Normal 
+
+Monocytes                 7.0 %  Normal 
+
+Eosinophils               1.0 %  Normal 
+
+Segs-Bands #              6.4 K/CMM  Normal 
+
+Lymphocytes #             1.1 K/CMM  Normal 
+
+Monocytes #               0.6 K/CMM  Normal 
+
+Eosinophils #             0.1 K/CMM  Normal 
+
+Tot Cell Ct               100  NA 
+
+RBC Morph                 Normal 
+
+Plt Morph                 Normal 
+
+Retic Auto                1.6 %  HI   
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes:                                     Normochromic normocytic RBCs, slight polychromasia
+
+White cells:                                        Normal number
+
+          Granulocytes:                           Normal number and morphology
+
+          Lymphocytes:                           Normal number and morphology
+
+          Monocytes:                              Normal number and morphology
+
+    
+
+Platelets:                                           Normal number and morphology
+
+ 
+
+Bone marrow
+
+ 
+
+Differential (%)
+
+Myeloblasts:                                      2
+
+Promyelocytes:                                  6
+
+Myelocytes:                                       15
+
+Metas:                                               11
+
+Bands & PMN's:                                 25
+
+Eos:                                                  3
+
+Baso:                                                0
+
+Monos:                                              0
+
+Lymphs:                                            21
+
+Plasma cells:                                     0
+
+Erythroids:                                         17
+
+ 
+
+ 
+
+Cellularity:                                         60%
+
+Megakaryopoiesis:                             Adequate with normal maturation
+
+Erythropoiesis:                                  Adequate with normal maturation
+
+                  Iron Content (aspirate):      Increased iron stores with no increase in ring-sideroblasts
+
+Granulopoiesis:                                  Adequate with normal maturation
+
+Lymphocytes:                                    Increased in number
+
+Biopsy and clot section:                     Several large aggregates of lymphoma cells are seen with paratrabecular pattern, a few with interstitial pattern.  The lymphoma cells  consists of a mixture of centrocytes and centroblasts
+
+Iron content (biopsy and clot section): Increased with no increase in ring-sideroblasts
+
+ 
+
+Non Clinical Documentation
+
+CPT: 88305 x 2, 88313 x 2, 88311, 85097, 85060, 88342, 88341 x 3

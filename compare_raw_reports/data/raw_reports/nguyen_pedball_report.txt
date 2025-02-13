@@ -1,0 +1,225 @@
+Diagnosis
+
+Peripheral Blood:
+
+- Pancytopenia 
+
+ 
+
+Bone Marrow:
+
+- B cell lymphoblastic leukemia, see comment
+
+- Decreased iron stores          
+
+ 
+
+02/13/2018 11:20/ddw
+
+ 
+
+ 
+
+NDN 02/13/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+- Immunophenotyping of bone marrow aspirate by flow cytometry (report HF-18-76) shows a predominant B lymphoblast population. These B cells have intermediate nuclear size (based on forward-scatter signal) and show expression of CD10, CD19, CD20, CD38, CD34, CD22, HLA-DR, and TdT. They are negative for CD2, CD3, CD4, CD8, CD5, CD7, CD56, CD13, CD117, MPO, and CD33. These results and morphology are consistent with B cell lymphoblastic leukemia (B ALL).
+
+- Bone marrow aspirate was sent for AFB/fungal stains and cultures, and cytogenetics.
+
+ 
+
+- Dr N. Rodridguez was notified of the findings on 2/13/2018
+
+ 
+
+Tumor Summary
+
+Specimen:
+
+  Peripheral blood smear
+
+  Bone marrow aspiration
+
+  Bone marrow aspirate clot
+
+  Bone marrow core (trephine) biopsy
+
+  Bone marrow core touch preparation (imprint)
+
+Procedure:  Bone marrow
+
+Aspiration site:  R posterior iliac crest
+
+Biopsy site:  R posterior iliac crest
+
+Histologic type:  B cell lymphoblastic leukemia
+
+Immunophenotyping
+
+  Immunohistochemistry: not performed
+
+  Flow cytometry: 
+
+    Performed, see separate report (HF-18-76)
+
+   
+
+ Cytogenetic studies:  Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+Clinical History: 6 y/o female with pancytopenia, acute onset fever, abdominal pain, MS change
+
+ 
+
+Gross Description
+
+The specimen is received in two parts each labeled with the patient's name and medical record number. 
+
+ 
+
+1.  Received in formalin in and labeled "bone marrow clot" is a red-brown portion of clotted blood measuring 1.4 x 0.6 x 0.1 cm.  The specimen is submitted in toto in cassette 1A.
+
+ 
+
+2.  Received in formalin and labeled "bone marrow" is a red-brown, cylindrical core of bone measuring 1.0 cm in length and 0.2 cm in diameter.  The specimen is submitted in toto in cassette 2A after a brief decalcification.  PY/jjb  02/13/2018 10:34
+
+ 
+
+Peripheral Smear
+
+CBC Results:    
+
+WBC                       1.5 K/CMM  LOW  
+
+RBC                       2.22 M/CMM  LOW  
+
+Hgb                       6.5 g/dL  CRIT  
+
+Hct                       19.2 %  CRIT  
+
+MCV                       86.4 fL  Normal 
+
+MCH                       29.4 pg  Normal 
+
+MCHC                      34.0 g/dL  Normal 
+
+RDW                       16.5 %  HI  
+
+Platelet                  93 K/CMM  LOW  
+
+MPV                       8.4 fL  Normal 
+
+Segs                      0.0 %  LOW  
+
+Bands                     0.0 %  Normal 
+
+Lymphocytes               98.0 %  HI  
+
+Atypical Lymphs           0.0 %  Normal 
+
+Monocytes                 2.0 %  Normal 
+
+Tot Cell Ct               25  NA 
+
+Anisocyte                 1+  
+
+Polychrom                 Moderate  
+
+Hypochrom                 1+ 
+
+Retic Auto                0.2 %  LOW   
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes:                                     Normochromic normocytic anemia with mild polychromasia
+
+White cells:                                        Decreased in number
+
+          Granulocytes:                           Normal morphology
+
+          Lymphocytes:                           Relatively increased with mature cytology
+
+          Monocytes:                              Normal morphology
+
+         
+
+Platelets:                                           Decreased with a few large platelets
+
+ 
+
+Bone marrow
+
+ 
+
+Differential                               (%)
+
+Lymphoblasts:                                   94%
+
+Promyelocytes:                                  0%
+
+Myelocytes:                                       0%
+
+Metas:                                               0%
+
+Bands & PMN's:                                 0%
+
+Eos:                                                  0%
+
+Baso:                                                0%
+
+Monos:                                              0%
+
+Lymphs:                                            2%
+
+Plasma cells:                                     0%
+
+Erythroids:                                         4%
+
+ 
+
+Cellularity:                                         95%
+
+Megakaryopoiesis:                             Decreased
+
+Erythropoiesis:                                  Markedly decreased
+
+                  Iron Content (aspirate):      Decreased iron stores
+
+Granulopoiesis:                                  Markedly decreased
+
+Lymphocytes:                                    Decreased
+
+ 
+
+Biopsy and clot section:                     Diffuse distribution of lymphoblasts
+
+Iron content (biopsy and clot section): Decreased iron stores
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060

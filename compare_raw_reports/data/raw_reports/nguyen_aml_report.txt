@@ -1,0 +1,245 @@
+Diagnosis
+
+Peripheral Blood:
+
+                                      Acute myeloid leukemia
+
+                                      Normocytic normochromic anemia
+
+                                      Thrombocytopenia
+
+ 
+
+ 
+
+Bone Marrow:
+
+                                      Acute myeloid leukemia, 46% blasts
+
+                                      Increased iron stores
+
+ 
+
+ 
+
+05/03/2017 16:30/ddw 
+
+ 
+
+ 
+
+NDN 05/03/2017 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Immunophenotyping of peripheral blood leukocytes by flow cytometry (report HF-17-205) shows a normal lymphoctic population in gate #2 (normal T cell and B cells, about 13% of sample cells). Analysis of cells in gate #1 shows a predominant monoblast population (about 11% of sample cells) that is positive for CD13, CD33, CD4, CD117, HLA-DR, CD38, CD14, CD15, CD64, and partial positivity for CD34. These blasts are negative for CD16, CD56, CD19, CD10, MPO, and TdT. A subpopulation of mature monocytes are found in gate #3 (about 28% of sample cells). They express CD13, CD33, CD4, HLA-DR, CD38, CD14, CD56, CD64. These blasts are negative for CD34, CD117, CD19, CD10, MPO, and TdT. These findings, together with morphology in peripheral blood (22% blasts) and bone marrow (46% blasts), are most consistent with acute myeloid leukemia. Positive HLA-DR and CD34 in blasts, together with morpholgy, do not support acute promyelocytic leukemia.
+
+- Bone marrow aspirate was sent for ALM-FISH panel, cytogenetics, PCR testing for CEBPA, NPM1, C KIT, and FLT3
+
+ 
+
+-Bone marrow clot and biopsy are pending (for processing). Results of clot and biopsy will be reported in Addendum
+
+ 
+
+-Clinical Hematology team and Oncology team (Dr Rios) were notified of the diagnosis on 5/3/2017
+
+ 
+
+Tumor Summary
+
+Specimen: _
+
+  Peripheral blood smear
+
+  Bone marrow aspiration
+
+  Bone marrow aspirate clot
+
+  Bone marrow core (trephine) biopsy
+
+  Bone marrow core touch preparation (imprint)
+
+Procedure: bone marrow
+
+Aspiration site: R post iliac crest
+
+Biopsy site:_R post iliac crest
+
+Histologic type: _acute myeloid leukemia
+
+Immunophenotyping
+
+  Immunohistochemistry: not performed,
+
+  Flow cytometry:  _
+
+    Performed, see separate report (HF-17-205)
+
+   
+
+ Cytogenetic studies:  Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow clot
+
+2. Bone marrow biopsy, decal, touch prep
+
+Peripheral blood
+
+Bone marrow was obtained by IR
+
+ 
+
+Clinical Information
+
+21 year old female with PMH of medulloblastoma s/p resection, chemotherapy and radiotherapy  (2012).  Presented with worsening SOB and fatigue and blasts in peripheral smear
+
+ 
+
+Gross Description
+
+Received in Surgical Pathology:
+
+1. Bone marrow clot
+
+2. Bone marrow biopsy
+
+ 
+
+Peripheral Smear
+
+CBC Results:    
+
+WBC                       11.5 K/CMM  HI  
+
+RBC                       3.15 M/CMM  LOW  
+
+Hgb                       8.7 g/dL  LOW  
+
+Hct                       25.4 %  LOW  
+
+MCV                       80.7 fL  Normal 
+
+MCH                       27.6 pg  Normal 
+
+MCHC                      34.1 g/dL  Normal 
+
+RDW                       15.3 %  HI  
+
+Platelet                  57 K/CMM  LOW  
+
+MPV                       11.1 fL  HI  
+
+Segs                      18.0 %  LOW  
+
+Bands                     0.0 %  Normal 
+
+Lymphocytes               33.0 %  Normal 
+
+Atypical Lymphs           0.0 %  Normal 
+
+Monocytes                 16.0 %  HI  
+
+Eosinophils               1.0 %  Normal 
+
+Metamyelocytes            1.0 %  Normal 
+
+Myelocytes                8.0 %  HI  
+
+Blasts                    22.0 %  HI  
+
+Segs-Bands #              2.1 K/CMM  Normal 
+
+Lymphocytes #             3.8 K/CMM  Normal 
+
+Monocytes #               1.8 K/CMM  HI  
+
+Eosinophils #             0.1 K/CMM  Normal 
+
+NRBC                      38 /100WB  NA  
+
+Anisocyte                 1+  
+
+Plt Morph                 Normal  
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes:                                     Normochromic normocytic anemia with slight polychromasia, rare NRBCs seen
+
+White cells:                                        Increased in number
+
+          Granulocytes:                           PMNs with unremarkable morphology
+
+          Lymphocytes:                           Normal morphology
+
+          Monocytes:                              Increased in number, 22% blasts seen, 
+
+ 
+
+Platelets:                                           Decrease in number with normal morphology
+
+ 
+
+Bone marrow
+
+ 
+
+Differential                               (%)
+
+Monoblasts and promonocytes:          46
+
+Promyelocytes:                                  1
+
+Myelocytes:                                       6
+
+Metas:                                               2
+
+Bands & PMN's:                                 6
+
+Eos:                                                  0
+
+Baso:                                                0
+
+Monos:                                              13
+
+Lymphs:                                            10
+
+Plasma cells:                                     2
+
+Erythroids:                                         14
+
+ 
+
+Cellularity:                                         pending biopsy and clot section processing
+
+Megakaryopoiesis:                             Markedly decreased in number
+
+Erythropoiesis:                                  Decrease with normal maturation
+
+                  Iron Content (aspirate):      Increased iron stores
+
+Granulopoiesis:                                  Increased in monocytes; numerous monoblasts and promonocytes
+
+Lymphocytes:                                    Normal in number with unremarkable morphology
+
+Plasma cells:                                     A few plasma cells seen with unremarkable morphology
+
+Biopsy and clot section:                     pending processing
+
+Iron content (biopsy and clot section): pending biopsy and clot section processing
+
+ 
+
+Non Clinical Documentation
+
+CPT: 88313-GC ,  85097-GC x 1, 85060-GC x 1

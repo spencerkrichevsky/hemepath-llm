@@ -1,0 +1,291 @@
+Diagnosis
+
+Peripheral Blood:         
+
+ - Marked leukocytosis with left shift
+
+ - Normocytic hypochromic anemia.
+
+ 
+
+ 
+
+Bone Marrow:               
+
+ - Markedly hypercellular for age (90%) with increased granulopoiesis and megakaryopoiesis,
+
+    supportive of a myeloproliferative neoplasm, NOS
+
+ - Decreased iron stores
+
+ 
+
+ 
+
+NDN/DMM 03/29/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Immunophenotyping of bone marrow aspirate by flow cytometry (report HF- 18-157) in Gate #1 shows a T cell population (about 90% of the cells analyzed) with no aberrant loss or aberrant expression of T cell markers, a B cell population (about 7% of the cells analyzed) that is negative for CD5, CD10, no surface light-chain restriction. Analysis of the cells in the blast area (Gate 4) shows fewer than 3% normal myeloblasts (of the bone marrow cells) that are positive for CD13 and CD33. These results indicate no abnormal immunophenotypes are found with flow cytometry.
+
+ 
+
+-The morphologic findings in peripheral blood and bone marrow are most supportive of a myeloproliferative neoplasm, NOS 
+
+ 
+
+-Bone marrow aspirate was sent for cytogenetics, FISH panel for MPN.
+
+ 
+
+-Dr Rios was noified of the findings on 3/29/18
+
+ 
+
+Tumor Summary
+
+Specimen:
+
+ 
+
+  Peripheral blood smear
+
+ 
+
+  Bone marrow aspiration
+
+ 
+
+  Bone marrow aspirate clot
+
+ 
+
+  Bone marrow core (trephine) biopsy
+
+ 
+
+  Bone marrow core touch preparation (imprint)
+
+ 
+
+Procedure:  Bone marrow
+
+ 
+
+Aspiration site:  R posterior iliac crest
+
+ 
+
+Biopsy site:  R posterior iliac crest
+
+ 
+
+Histologic type:  MPN, NOS
+
+ 
+
+Immunophenotyping
+
+ 
+
+  Immunohistochemistry: not performed
+
+ 
+
+  Flow cytometry:
+
+ 
+
+    Performed, see separate report (HF-18-157)
+
+ 
+
+  
+
+ 
+
+ Cytogenetic studies:  Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+ 
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+76 year old male with a possible myeloproliferative neoplasm.
+
+ 
+
+Gross Description
+
+The specimen is received in two parts each labeled with the patient's name and medical record number. 
+
+1. Received in formalin and labeled clot is a red-brown gelatinous portion of clotted blood measuring 0.8 x 1.2 x 0.8 cm.  The clot is serially cross sectioned to reveal a red-brown gelatinous cut surface.  The clot is submitted in its entirety in cassette 1A.
+
+ 
+
+2. Received in formalin and labeled core is a red-brown cylindrical core of bone measuring 1.2 x 0.2 x 0.2 cm.  The specimen is submitted in toto in cassette 2A after a brief decalcification.  PY/myf  03/27/2018 21:08
+
+ 
+
+Microscopic Description
+
+CBC Results
+
+Date/time: 3/27/2018 10:00
+
+ 
+
+CBC Results:    
+
+WBC                       39.9 K/CMM  HI  
+
+RBC                       4.14 M/CMM  LOW  
+
+Hgb                       12.5 g/dL  LOW  
+
+Hct                       37.8 %  LOW  
+
+MCV                       91.2 fL  Normal 
+
+MCH                       30.2 pg  Normal 
+
+MCHC                      33.1 g/dL  Normal 
+
+RDW                       16.2 %  HI  
+
+MPV                       9.4 fL  Normal 
+
+Platelet                  195 K/CMM  Normal 
+
+Segs                      70.0 %  Normal 
+
+Bands                     0.0 %  Normal 
+
+Lymphocytes               11.0 %  LOW  
+
+Atypical Lymphs           0.0 %  Normal 
+
+Monocytes                 15.0 %  HI  
+
+Eosinophils               1.0 %  Normal 
+
+Metamyelocytes            2.0 %  HI  
+
+Myelocytes                1.0 %  HI  
+
+Segs-Bands #              27.9 K/CMM  HI  
+
+Lymphocytes #             4.4 K/CMM  Normal 
+
+Monocytes #               6.0 K/CMM  HI  
+
+Eosinophils #             0.4 K/CMM  Normal 
+
+RBC Morph                 Normal 
+
+Plt Morph                 Normal 
+
+       Retic Auto                2.4 %  HI   
+
+ 
+
+PERIPHERAL BLOOD:
+
+Erythrocytes: Hypochromic normochromic anemia with anisocytosis, mild polychromasia.
+
+White cells: Leukocytosis.                 
+
+          Granulocytes: Increased with left shift.
+
+          Lymphocytes: Unremarkable morphology.
+
+          Monocytes: Increased with unremarkable morphology.     
+
+ Platelets: Adequate with unremarkable morphology.     
+
+ 
+
+ 
+
+Bone marrow
+
+ 
+
+Differential (%)
+
+Myeloblasts: 3                                  
+
+Promyelocytes: 5                              
+
+Myelocytes: 17                                  
+
+Metas: 6                                           
+
+Bands & PMN's: 46                           
+
+Eos: 1                                              
+
+Baso: 1                                             
+
+Monos: 1                                          
+
+Lymphs: 3                                         
+
+Plasma cells: 0                                  
+
+Erythroids: 17                                   
+
+ 
+
+M:E ratio 5.9                                     
+
+                                                           
+
+Cellularity:     90%, hypercellular for age
+
+ 
+
+Megakaryopoiesis: Markedly increased with normal maturation
+
+ 
+
+Erythropoiesis: Adequate, no evidence of dysplasia.
+
+                 
+
+            Iron Content (aspirate): Decreased iron stores.   
+
+ 
+
+Granulopoiesis: Markely increased, no evidence of dysplasia or eosinophilia/basophilia.                          
+
+ 
+
+Lymphocytes: Reduced, unremarkable morphology.
+
+                                                          
+
+ 
+
+Biopsy and clot section: Markedly hypercellular with increased granulopoiesis and megakaryopoiesis
+
+Iron content (biopsy and clot section):  Decreased iron stores
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060

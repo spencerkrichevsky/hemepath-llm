@@ -1,0 +1,155 @@
+Diagnosis
+
+Peripheral Blood:
+
+ - Pancytopenia
+
+ 
+
+Bone Marrow:               
+
+ - Hypocellular for age (s/p chemotherapy)
+
+ - No morphologic or immunophenotypic evidence of residual leukemia,
+
+    see comment
+
+ - Increased iron stores
+
+ 
+
+ 
+
+NDN/LZ 02/01/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+ 
+
+-Immunophenotyping of bone marrow aspirate by flow cytometry (report HF-18- 60) in gate #1 shows a T cell population (about 90% of the cells analyzed) with high CD4/CD8 ratio (8:1), otherwise no aberrant loss or aberrant expression of T cell markers, a small B cell population (about 6% of the cells analyzed) with no evidence of surface-light chain restriction. Analysis of cells in gate #2 (blast area) shows a small number of normal myeloblasts (<1%) with expression of CD33 and CD13. These results indicate no residual leukemic population with flow cytometry in this patient with history of AML, s/p chemotherapy.
+
+ 
+
+-Reticulin and trichrome stains are pending on biopsy. Results will be reported in Addendum.
+
+ 
+
+-Additional aspirate has been sent to Genoptix to perform cytogenetic analysis, AML molecular profile, and FLT3 mutation studies. Results will be issued separately in Addendum.
+
+ 
+
+Tumor Summary
+
+N/A
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+Clinical Information
+
+83 y/o female with AML, diagnosed on 11/6/17 with positive FLT3, IDH2, NPM1, and NRAS; negative for bcr-abl1, AML-FISH panel, cytogenetics. The most recent bone marrow on 12/26/17 showed 40% residual blasts
+
+ 
+
+Gross Description
+
+The specimen is received in two parts, each labeled with the patient's name and medical record number. 
+
+ 
+
+1.  Received in formalin in a container and labeled with the patient's name and "bone marrow clot" on the requisition is a red-brown gelatinous portion of clotted blood measuring 4 x 1.0 x 0.9 cm.  The clot is serially cross sectioned to reveal red-brown gelatinous cut surfaces.  Tissue is serially cross sectioned to reveal red-brown gelatinous cut surface.  The specimen is submitted in its entirety in cassette 1A.
+
+ 
+
+2.  Received in formalin in a container and labeled with the patient's name and "bone marrow biopsy" on the requisition is a red-brown cylindrical core of bone with adherent clotted blood measuring 1.0 cm in length and up to 0.2 cm in diameter. The specimen is submitted in toto in cassette 2A after brief decalcification.  PY/dg  01/31/2018 16:23
+
+ 
+
+Peripheral Smear
+
+CBC result (1/31/2018 06:25)
+
+WBC                       0.4 K/CMM  CRIT  
+
+RBC                       2.79 M/CMM  LOW  
+
+Hgb                       8.0 g/dL  LOW  
+
+Hct                       22.6 %  LOW  
+
+MCV                       81.1 fL  Normal 
+
+MCH                       28.5 pg  Normal 
+
+MCHC                      35.2 g/dL  Normal 
+
+RDW                       14.6 %  HI  
+
+Platelet                  3 K/CMM  CRIT  
+
+             MPV                       12.0 fL  HI  
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes:                                     Hypochromic normocytic anemia, mild polychromasia,                                                                          
+
+White cells:                                        Leukopenia
+
+          Granulocytes:                           Decreased with normal morphology
+
+          Lymphocytes:                           Decreased with normal morphology
+
+          Monocytes:                              Decreased with normal morphology
+
+Platelets:                                           Thrombocytopenia with normal morphology
+
+ 
+
+Bone marrow
+
+ 
+
+Differential (%): Unable to perform due to hypocellular aspirate
+
+ 
+
+Cellularity: 10%                                 
+
+Megakaryopoiesis: focally increased  
+
+Erythropoiesis: decreased                    
+
+Granulopoiesis: decreased                
+
+Lymphocytes: decreased                      
+
+Biopsy: hypocellular with no blasts seen; focal increase in megakaryocytes         
+
+Iron content (biopsy): Increased iron stores        
+
+ 
+
+Intradepartmental Consultation
+
+N/A
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305x2, 88313, 88311, 85097, 85060

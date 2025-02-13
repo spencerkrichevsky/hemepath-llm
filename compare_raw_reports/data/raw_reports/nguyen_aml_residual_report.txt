@@ -1,0 +1,213 @@
+Diagnosis
+
+Peripheral Blood:
+
+- Normochromic hypochromic anemia
+
+- Leukopenia with circulating blasts
+
+Bone Marrow:
+
+- Residual acute myeloid leukemia (40% myeloblasts)
+
+- Adequate iron stores
+
+ 
+
+ 
+
+NDN/KK 04/24/2019 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Immunophenotyping of bone marrow aspirate by flow cytometry (HF-19-180) shows a myeloblast population (37% of total events) that is positive for CD4 (partial), CD7, CD10 (partial), CD13, CD19 (partial; 30%),  CD34, CD38, CD56, CD 117, HLA-DR. These blasts are negative for CD2, CD3, CD5, CD11b, CD14, CD15, CD16, CD20, CD33, CD64, and MPO. These findings are consistent with significant residual acute myeloid leukemia.
+
+ 
+
+-Bone marrow aspirate was sent for cytogenetics, AML Molecular Profile, FISH testing for MECOM 3q26.2, t(8;21), and FLT3 mutations by PCR
+
+ 
+
+Tumor Summary
+
+Specimen:
+
+Peripheral blood smear
+
+Bone marrow aspiration
+
+Bone marrow aspirate clot
+
+Bone marrow core (trephine) biopsy
+
+Bone marrow core touch preparation (imprint)
+
+Procedure: Bone marrow
+
+Aspiration site: R posterior iliac crest
+
+Biopsy site: R posterior iliac crest
+
+Histologic type: acute myeloid leukemia
+
+Immunophenotyping
+
+Immunohistochemistry: not performed
+
+Flow cytometry: Performed, see separate report (HF-19-180)
+
+Cytogenetic studies: Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+72 year old male with AML, s/p chemo (diagnosed 3/22/2019). Baseline marrow showed complex chromosomal abnormalities, FISH showing MECOM rearrangement, 21q+; AML molecular profile showing abnormal ASXL1, CSF3R, TET2
+
+ 
+
+Gross Description
+
+The specimen is received in two parts, each labeled with the patient's name and medical record number. 
+
+ 
+
+1. Received in formalin, labeled with the patient's name, MRN number, and "clot," is a 1.7 x 1.5 x 1.2 cm blood clot. The specimen is bisected and entirely embedded in cassette 1A.
+
+ 
+
+2. Received in formalin, labeled with the patient's name, MRN number, and "core," is a 1.1 x 0.2 bone core. The specimen is entirely embedded in cassette 2A for light decal.
+
+ 
+
+KK 4/23/19
+
+ 
+
+Peripheral Smear
+
+CBC on 4/22/2019:
+
+WBC                       0.8               C
+
+RBC                       2.64             L
+
+Hgb                        8.1               L
+
+Hct                         23.2             L
+
+MCV                       87.8            
+
+MCH                       30.8            
+
+MCHC                     35.1            
+
+RDW                      17.5             H
+
+Platelet                   155             
+
+MPV                       6.5               L
+
+Segs                      17.0             L
+
+Bands                     0.0              
+
+Lymphocytes          63.0             H
+
+Atypical Lymphs      0.0              
+
+Monocytes              1.0               L
+
+Neutrophils #           0.1               L
+
+Lymphocytes #        0.5               L
+
+Monocytes #           0.0              
+
+Blasts                     19.0             H
+
+Plt Morph                Normal        
+
+Retic Auto               0.3               L
+
+ 
+
+Microscopic Description
+
+Erythrocytes: Normocytic hypochromic anemia with anisopoikilocytosis, mild polychromasia
+
+White cells: Leukopenia with circulating blasts
+
+Granulocytes: Decreased in number
+
+Lymphocytes: Normal morphology
+
+Monocytes: Normal morphology
+
+Platelets: Normal number and morphology, rare large platelets
+
+ 
+
+Bone marrow
+
+Differential (%) on aspirate
+
+Myeloblasts: 40
+
+Promyelocytes: 1
+
+Myelocytes: 3
+
+Metas: 1
+
+Bands & PMN's: 3
+
+Eos: 0
+
+Baso: 2
+
+Monos: 2
+
+Lymphs: 23
+
+Plasma cells: 7
+
+Erythroids: 18
+
+ 
+
+Cellularity: 20%, normocellular for age
+
+Megakaryopoiesis: Decreased with normal maturation
+
+Erythropoiesis: Decreased with normal maturation
+
+Iron Content (aspirate): Adequate iron stores
+
+Granulopoiesis: Arrest of maturation with numerous blasts (40%)
+
+Lymphocytes: Normal morphology
+
+Biopsy and clot section: Clusters of blasts seen
+
+Iron content (biopsy and clot section): Adequate iron stores
+
+ 
+
+Non Clinical Documentation
+
+ CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060

@@ -1,0 +1,159 @@
+Diagnosis
+
+Peripheral Blood:
+
+ - Pancytopenia
+
+ 
+
+Bone Marrow:               
+
+ - Hypocellular for age (30%)
+
+ - No histological evidence of Hemophagocytic Lymphohistiocytosis (HLH)
+
+ - No evidence of malignancy
+
+ - Decreased iron stores
+
+ 
+
+ 
+
+NDN/LZ 01/30/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+No histologic evidence of HLH or malignancy is seen in bone marrow. Patient's pancytopenia is most likely secondary to hypocellular bone marrow. The etiologies for hypocellular bone marrow may include: viral infection, medication effect, and immune disorders. Clinical correlation is suggested.
+
+ 
+
+Tumor Summary
+
+N/A
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+Clinical History:  Lupus, rule out HLH
+
+ 
+
+Gross Description
+
+The specimen is received in one part, labeled with the patient's name and medical record number. 
+
+ 
+
+Received in formalin and labeled with the patient's name and "bone marrow core" on the requisition are two tan-brown cylindrical cores of bone each measuring 0.7 x 0.2 x 0.2 cm.  The specimen is submitted in toto in cassette 1A after a brief decalcification.  PY/dg  01/29/2018 19:17
+
+ 
+
+Peripheral Smear
+
+CBC result (1/29/2018 02:26)
+
+WBC                       2.1 K/CMM  LOW  
+
+RBC                       2.15 M/CMM  LOW  
+
+Hgb                       7.0 g/dL  CRIT  
+
+Hct                       20.3 %  LOW  
+
+MCV                       94.7 fL  Normal 
+
+MCH                       32.7 pg  HI  
+
+MCHC                      34.6 g/dL  Normal 
+
+RDW                       15.6 %  HI  
+
+Platelet                  83 K/CMM  LOW  
+
+MPV                       7.5 fL  Normal 
+
+Segs                      61.6 %  Normal 
+
+Lymphocytes               34.3 %  Normal 
+
+Monocytes                 3.8 %  Normal  
+
+Basophils                 0.3 %  Normal 
+
+Segs-Bands #              1.3 K/CMM  LOW  
+
+Lymphocytes #             0.7 K/CMM  LOW  
+
+Monocytes #               0.1 K/CMM  Normal 
+
+Anisocyte                 1+  
+
+      Plt Morph                 Normal 
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes:                                     Normochromic normocytic anemia, mild polychromasia,                                                                            a few microspherocyes present
+
+White cells:                                        Leukopenia
+
+          Granulocytes:                           Left shifted with myelocytes present
+
+          Lymphocytes:                           Normal morphology
+
+          Monocytes:                              Normal morphology
+
+Platelets:                                           Thrombocytopenia with normal morphology
+
+ 
+
+Bone marrow
+
+ 
+
+Differential (%): Unable to perform due to dry tap on the aspirate and very few cells on the touch prep
+
+ 
+
+Cellularity:30%                                  
+
+Megakaryopoiesis: Adequate with normal maturation      
+
+Erythropoiesis: decreased                    
+
+Granulopoiesis: decreased with no increase in blasts     
+
+Lymphocytes: decreased                      
+
+Biopsy: hypocellular with no abnormal cellular infiltrates 
+
+Iron content (biopsy): Decreased iron stores      
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305, 88313, 88311, 85060
+
+ 
+
+The positive controls and internal negative controls for the special stains have been reviewed, and appropriate staining is confirmed by the pathologist whose signature appears above.

@@ -1,0 +1,235 @@
+Diagnosis
+
+Peripheral blood:
+
+- Normocytic hypochromic anemia with rouleaux formation
+
+Bone marrow:
+
+- Normocellular for age (30%)
+
+- Lymphoplasmacytic lymphoma, see comment
+
+- Decreased iron stores
+
+ 
+
+ 
+
+NDN/DCR 06/18/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+- Immunophenotyping of leukocytes in bone marrow aspirate by flow cytometry (report HF-18-315) shows an abnormal B cell population (about 60% of the lymphocytes analyzed, or 30% of bone marrow cells) that is positive for CD19, CD20, CD22, FMC7, and surface kappa light chain restriction. These B cells are negative for CD5, and CD10. These B cells are small in nuclear size (based on forward-scatter signal). Analysis of CD38-positive cells shows a small abnormal plasma cell population with cytoplasmic kappa light-chain restriction. They are negative for CD56. These results, together with morphological findings in bone marrow, are consistent with lymphoplasmacytic lymphoma in this patient with a history of macroglobulinemia. Clinical correlation is suggested.
+
+-Bone marrow aspirate was sent for chromosome analysis, PCR for MYD88, and FISH panel for multiple myeloma
+
+ 
+
+Tumor Summary
+
+Specimen:
+
+Peripheral blood smear
+
+Bone marrow aspiration
+
+Bone marrow aspirate clot
+
+Bone marrow core (trephine) biopsy
+
+Bone marrow core touch preparation (imprint)
+
+Procedure: Bone marrow
+
+Aspiration site: R posterior iliac crest
+
+Biopsy site: R posterior iliac crest
+
+Histologic type: lymphoplasmacytic lymphoma
+
+Immunophenotyping
+
+Immunohistochemistry: not performed
+
+Flow cytometry:
+
+Performed, see separate report (HF-18-315)
+
+Cytogenetic studies: Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+78 year old male with Waldenstrom macroglobulinemia, K/L ratio of 4.55
+
+ 
+
+Gross Description
+
+The specimen is received in two parts, each labeled with the patient's name and medical record number. 
+
+ 
+
+1. Received in formalin and labeled "clot" is a red-brown portion of clotted blood measuring 1.3 x 1.0 x 0.8 cm.  The clot is serially cross sectioned to reveal a red-brown, gelatinous cut surface.  The clot is submitted in its entirety in cassette 1A 
+
+ 
+
+2. Received in formalin labeled "core" are two red-brown, cylindrical cores of bone measuring 0.4 and 1.8 cm in length and 0.2 cm in diameter.  The specimen is submitted in toto in cassette 2A after a brief decalcification.  PY/dcr 06/15/2018 14:11
+
+ 
+
+Peripheral Smear
+
+(CBC results on 6/15/2018)
+
+ 
+
+CBC Results:    
+
+WBC                       3.9 K/CMM  Normal 
+
+WBC                       4.0 K/CMM  Normal 
+
+RBC                       2.62 M/CMM  LOW  
+
+RBC                       2.60 M/CMM  LOW  
+
+Hgb                       8.3 g/dL  LOW  
+
+Hgb                       8.2 g/dL  LOW  
+
+Hct                       24.5 %  LOW  
+
+Hct                       24.0 %  LOW  
+
+MCV                       93.5 fL  Normal 
+
+MCV                       92.4 fL  Normal 
+
+MCH                       31.6 pg  HI  
+
+MCH                       31.6 pg  HI  
+
+MCHC                      33.8 g/dL  Normal 
+
+MCHC                      34.2 g/dL  Normal 
+
+RDW                       16.2 %  HI  
+
+RDW                       15.9 %  HI  
+
+MPV                       7.6 fL  Normal 
+
+MPV                       8.1 fL  Normal 
+
+Platelet                  143 K/CMM  Normal 
+
+Platelet                  146 K/CMM  Normal 
+
+Segs                      60.8 %  Normal 
+
+Lymphocytes               34.8 %  Normal 
+
+Monocytes                 3.7 %  Normal 
+
+Eosinophils               0.4 %  Normal 
+
+Basophils                 0.3 %  Normal 
+
+Segs-Bands #              2.4 K/CMM  Normal 
+
+Lymphocytes #             1.4 K/CMM  Normal 
+
+Monocytes #               0.1 K/CMM  Normal 
+
+RBC Morph                 Normal 
+
+Plt Morph                 Normal 
+
+Retic Auto                1.8 %  HI   
+
+ 
+
+Microscopic Description
+
+PERIPHERAL BLOOD:
+
+Erythrocytes: normocytic hypochromic anemia with rouleaux formation, mild anisocytosis and mild polychromasia
+
+White cells: Adequate in number
+
+Granulocytes: Normal morphology
+
+Lymphocytes: Normal morphology
+
+Monocytes: Normal morphology
+
+Platelets: Adequate in number with normal morphology
+
+Bone marrow
+
+Differential (%)
+
+Myeloblasts: 0
+
+Promyelocytes: 0
+
+Myelocytes: 2
+
+Metas: 8
+
+Bands& PMN's: 10
+
+Eos: 5
+
+Baso: 0
+
+Monos: 0
+
+Lymphs: 60
+
+Plasma cells: 8
+
+Erythroids: 7
+
+ 
+
+Cellularity: 30%, normocellular for age
+
+Megakaryopoiesis: Adequate, with normal maturation
+
+Erythropoiesis: Decreased with normal maturation
+
+Iron Content (aspirate): Decreased iron stores
+
+Granulopoiesis: Adequate, with normal maturation
+
+Lymphocytes: Increased in number with mature cytological features (with interstitial infiltrate pattern in biopsy)
+
+Plasma cells: Increased with normal morphology
+
+Biopsy and clot section: Increased in lymphocytes and plasma cells with mature cytological features (with interstitial infiltrate pattern in biopsy)
+
+Iron content (biopsy and clot section): Decreased iron stores
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060

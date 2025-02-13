@@ -1,0 +1,247 @@
+Diagnosis
+
+Peripheral Blood:         
+
+ - Pancytopenia
+
+ 
+
+Bone Marrow:               
+
+ - Myelodysplastic syndrome with excess blasts-1 (MDS EB-1)
+
+ - Adequate iron stores
+
+ 
+
+ 
+
+NDN/DMM 03/16/2018 Electronic Signature: Nguyen, Nghia Andy D MD
+
+ 
+
+Comment
+
+-Immunophenotyping of bone marrow aspirate by flow cytometry (report HF-18-131) in gate #2 shows a normal lymphocytic population (B cell and T cells). Analysis of cells in gate#1 (blast area) shows a myeloblast population that is positive for CD34, CD13, CD33, CD117, CD38, and HLA-DR. These blasts are negative for CD56, CD19, CD10, and TdT. They aberrantly expressed CD4. The blasts account for about 7% of the bone marrow nucleated cells (in line with manual differential). These flow cytometry results, together with morphological findings, are consistent with MDS with excess blasts-type 1 (MDS EB-1).
+
+-Note that patient received chemotherapy for NHL previously. A therapy-related MDS cannot be ruled out. Clinical correlation is suggested.
+
+-No evidence of residual lymphoma is seen.
+
+-Bone marrow biopsy is pending decal process. Findings on biopsy will be reported in Addendum
+
+-Bone marrow aspirate was sent for cytogenetics, FISH panel for MDS.
+
+ 
+
+- Dr Idowu was notified of the findings on 3/16/18
+
+ 
+
+Tumor Summary
+
+Specimen:
+
+  Peripheral blood smear
+
+  Bone marrow aspiration
+
+  Bone marrow aspirate clot
+
+  Bone marrow core (trephine) biopsy
+
+  Bone marrow core touch preparation (imprint)
+
+Procedure:  Bone marrow
+
+Aspiration site:  R posterior iliac crest
+
+Biopsy site:  R posterior iliac crest
+
+Histologic type:  MDS EB-1
+
+Immunophenotyping
+
+  Immunohistochemistry: not performed
+
+  Flow cytometry: 
+
+    Performed, see separate report (HF-18-xx)
+
+   
+
+ Cytogenetic studies:  Performed, see separate report
+
+ 
+
+Specimen Source
+
+1. Bone marrow aspirate and clot
+
+2. Bone marrow core biopsy, decal, touch prep
+
+3. Peripheral blood smear
+
+Bone marrow procedure was performed by IR
+
+ 
+
+Clinical Information
+
+83 year old male with NHL s/p chemoradiation (initial diagnosis 5 yrs ago) and relapse 1 yr ago with last treatment 1 yr ago who is presenting with pancytopenia x 2 months concerning for relapse.
+
+ 
+
+Gross Description
+
+1. Received in formalin labeled with the patient's name and MRN only is a 1.5 x 1.5 x 1.0 cm cylindrical clot of dark red blood which is bisected and submitted entirely in cassette 1A.
+
+ 
+
+2. Received in formalin labeled with the patient's name, MRN and "core" is a 1.4 cm cylindrical portion of trabeculated bone measuring 0.2 cm in diameter.  The specimen is submitted in its entirety in cassette 2A after a brief decal.  AG/myf  03/16/2018 02:01
+
+ 
+
+Peripheral Smear
+
+3/15/2018
+
+CBC Results:    
+
+WBC                       0.9 K/CMM  CRIT  
+
+RBC                       2.55 M/CMM  LOW  
+
+Hgb                       8.4 g/dL  LOW  
+
+Hct                       24.6 %  LOW  
+
+MCV                       96.5 fL  HI  
+
+MCH                       32.9 pg  HI  
+
+MCHC                      34.1 g/dL  Normal 
+
+RDW                       24.7 %  HI  
+
+Platelet                  57 K/CMM  LOW  
+
+MPV                       7.5 fL  Normal 
+
+Segs                      25.3 %  LOW  
+
+Lymphocytes               67.7 %  HI  
+
+Monocytes                 4.3 %  Normal 
+
+Eosinophils               1.8 %  Normal 
+
+Basophils                 0.9 %  Normal 
+
+Segs-Bands #              0.2 K/CMM  LOW  
+
+Lymphocytes #             0.6 K/CMM  LOW   
+
+ 
+
+Microscopic Description
+
+ 
+
+PERIPHERAL BLOOD:
+
+Erythrocytes: Macrocytic hypochromic anemia with anisopoikilocytosis, mild polychromasia         
+
+White cells: Markedly decreased; no blasts seen
+
+          Granulocytes: Markedly decreased in number with normal morphology      
+
+          Lymphocytes: Decreased in number with normal morphology        
+
+          Monocytes: Decreased in number with normal morphology
+
+ Platelets: Decreased in number with morphology          
+
+ 
+
+ 
+
+Bone marrow
+
+ 
+
+Differential (%)
+
+Myeloblasts:                                      7 
+
+Promyelocytes:                                  1
+
+Myelocytes:                                       5 
+
+Metas:                                               2 
+
+Bands & PMN's:                                 3 
+
+Eos:                                                  1 
+
+Baso:                                                0 
+
+Monos:                                              0 
+
+Lymphs:                                            14           
+
+Plasma cells:                                     0 
+
+Erythroids:                                         67           
+
+ 
+
+M:E ratio  0.28                                  
+
+                                                           
+
+Cellularity (clot section):      30%, normocellular for age  
+
+ 
+
+Megakaryopoiesis: Adequate with dysplastic forms        
+
+ 
+
+Erythropoiesis: Markedly increased with dyserythropoiesis         
+
+                 
+
+            Iron Content (aspirate): Adequate iron stores      
+
+ 
+
+Granulopoiesis: Decreased with normal maturation                                
+
+ 
+
+Lymphocytes: Normal number and morphology
+
+ 
+
+Others:  Rare histiocytes with hemophagocytosis
+
+ 
+
+Clot section: No evidence of clusters of immature cells.
+
+ 
+
+ 
+
+Iron content (clot section):                    Adequate iron stores
+
+ 
+
+Non Clinical Documentation
+
+CPT:88305 x 2, 88313 x 2, 88311, 85097, 85060
+
+ 
+
+The positive controls and internal negative controls for the special stains have been reviewed, and appropriate staining is confirmed by the pathologist whose signature appears above.
