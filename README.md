@@ -12,7 +12,7 @@ conda activate your_env
 
 git clone https://github.com/spencerkrichevsky/hemepath-llm
 
-cd x/
+cd hemepath-llm/
 
 pip install -e .
 
