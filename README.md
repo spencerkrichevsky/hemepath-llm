@@ -10,7 +10,7 @@ conda create -n your_env python=3.10
 
 conda activate your_env
 
-git clone x.git
+git clone https://github.com/spencerkrichevsky/hemepath-llm
 
 cd x/
 
